@@ -1,0 +1,12 @@
+{
+  "export_job_id": "041dd372-cabb-4922-be47-16308080e424",
+  "id_short": 350705,
+  "published_at": "2026-04-11T07:34:18Z",
+  "repo_name": "white-space-finder-in-connecticut-us-sample-350705",
+  "sample_asset_name": "beamstation_350705_food_and_drink-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/350705/beamstation_350705_food_and_drink-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "86d75c68d872490eae49d07b226f92ccfa4b2955c76c95068bea23a082ab6ced",
+  "sample_size_bytes": 23806,
+  "total_records": 24
+}
